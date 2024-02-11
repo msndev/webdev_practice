@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Yatra+One');
+h1{
+  text-align:right;
+  font-family: 'Yatra One', cursive;
+
+
+
+}
+h2{
+  font-family: 'Yatra One', cursive;
+}
+p{
+
+text-align: justify;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 25px;
+}
